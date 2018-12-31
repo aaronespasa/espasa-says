@@ -90,17 +90,17 @@ body {
 
 .btn-start {
   cursor: pointer;
-  width: 420px;
-  height: 150px;
+  width: 9.54em;
+  height: 3em;
   background: #ecf0f1;
   color: #2c3e50;
   border: none;
-  border-bottom: 4px solid #c4c6c7;
-  border-radius: 8px;
+  border-bottom: 0.09em solid #c4c6c7;
+  border-radius: 0.18em;
   font-size: 2.8em;
   position: absolute;
-  top: calc(48% - 50px);
-  left: calc(50% - 210px);
+  top: calc(48% - 1.36em);
+  left: calc(50% - 4.77em);
   transition: .5s;
   outline: none;
 }
@@ -108,7 +108,7 @@ body {
 .btn-start:hover {
   color: #ecf0f1;
   background: #2c3e50;
-  border-bottom: 4px solid #1f3346;
+  border-bottom: 0.09em solid #1f3346;
 }
 
 .btn-start:active {
