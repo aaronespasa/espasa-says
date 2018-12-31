@@ -43,18 +43,18 @@ body {
   transform: scale(1.05);
 }
 
-.violeta {
-  background: #be2edd;
+.rojo {
+  background: rgb(208, 28, 50);
   transition: 1s;
 }
-.violeta:hover{
+.rojo:hover{
   transform: scale(1.02);
 }
-.violeta.light {
-  background: #e056fd;
+.rojo.light {
+  background: rgb(170, 28, 50);
   transition: 0.3s;
 }
-.violeta.light:hover{
+.rojo.light:hover{
   transform: scale(1.05);
 }
 
